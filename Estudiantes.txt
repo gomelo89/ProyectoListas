@@ -1,0 +1,14 @@
+Datos del estudiante
+Cedula : 12
+Nombre : juan
+Apellido : fs
+Telefono : 23
+Modalidad de estudio : Virtual
+Cantidad de asignaturas que esta viendo : 4
+Datos de la tableta grafica
+Serial : 23
+Marca : df
+Tamaño : 34.0
+Precio : 34.0
+Almacenamiento : 256 GB
+Peso : 34.0
